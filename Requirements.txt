@@ -1,0 +1,5 @@
+pandas
+streamlit
+plotly
+plotly==5.14.1
+plotly_express==0.4.0
