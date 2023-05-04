@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-import plotly as px
+import plotly.expres as px
 import numpy as np
 import plotly.graph_objects as go
 import streamlit.components.v1 as components
